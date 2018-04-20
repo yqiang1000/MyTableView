@@ -1,0 +1,20 @@
+PODS:
+  - JSONModel (1.7.0)
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - JSONModel (~> 1.7.0)
+  - Masonry (~> 1.0.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - JSONModel
+    - Masonry
+
+SPEC CHECKSUMS:
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: cf4146a3140bb49c49f7a50aca86ab567cf8e8b5
+
+COCOAPODS: 1.5.0
